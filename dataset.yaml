@@ -1,0 +1,6 @@
+train: /Users/rohanshenoy/Desktop/targetidyolo/images/train
+val: /Users/rohanshenoy/Desktop/targetidyolo/images/val
+test: /Users/rohanshenoy/Desktop/targetidyolo/images/test
+
+nc: 1
+names: ['Black']
